@@ -48,6 +48,6 @@ public class ArrayListDemo {
 		for(Integer j : numbers){
 			System.out.println(j);
 		}
-		System.out.println("\n");
+			System.out.println("\n");
 	}
 }
